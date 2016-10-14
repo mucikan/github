@@ -1,4 +1,4 @@
 github
 ======
 
-Analize github
+Analyze github
